@@ -108,7 +108,7 @@ legend.onAdd = function () {
 };
 
 
-// Finally, we our legend to the map.
+// Add the legend to the map
 legend.addTo(map);
 });
 
